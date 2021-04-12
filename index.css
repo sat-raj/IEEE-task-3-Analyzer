@@ -92,3 +92,11 @@ body{
     color: black;
     box-shadow:2px -0px 10px black;
 }
+@media (max-width:1100px)
+{
+  body{
+    background-image: none;
+     background-color: black;
+  }
+}
+
